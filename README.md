@@ -12,9 +12,9 @@ This is the initial tutorial site for Vorakor Technologies Learning Center, thou
 - User system - Single Sign On if possible, email as username, password, first name and last name, date joined, preferences for videos that they want to see over others, what technologies they have experience in, what level they are currently at in their career, also pick a comment display name, the country they reside in, and technologies they want to learn.
 - User favorites - Favorite tutorial videos, favorite series of videos, or they can favorite a section in a transcript to highlight a particular segment of a video.
 - Admin Panel:
-- - Admin login.
-- - Admin review new comments (AI assist to look for derogatory comments).
-- - Admin upload new video.
-- - Admin user management - Block users who keep making negative comments.
-- - Admin review community feedback.
+  - Admin login.
+  - Admin review new comments (AI assist to look for derogatory comments).
+  - Admin upload new video.
+  - Admin user management - Block users who keep making negative comments.
+  - Admin review community feedback.
 - Community Feedback - Provide an area where users can suggest improvements to code, point out issues in existing code, suggest future features they want to see as a part of the Learning Center, or volunteer to take part in the Learning Center.
